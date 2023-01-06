@@ -18,4 +18,6 @@ If you want to see the source code used for the project, then visit the folder c
 - Control System toolbox
 - Stateflow
 
+Then if you want to run a Simulink model of a random controller, note that you can find all parameters of the model and of the controller right-clicking on the white background of the blank model, go `Model Properties`-> `Callbacks` -> `InitFcn`.
+
 **Note**: Please note that for the bifurcation analysis I've used the software matcont that you have to install separately.
